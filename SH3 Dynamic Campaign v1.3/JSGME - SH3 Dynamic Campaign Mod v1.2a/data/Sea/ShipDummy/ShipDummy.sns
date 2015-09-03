@@ -1,0 +1,77 @@
+; sensor configuration file
+
+;lookout on conning tower
+[Sensor 1]
+NodeName=O01
+LinkName=Visual
+StartDate=19380101
+EndDate=19451231
+
+;atack periscope
+[Sensor 2]
+NodeName=O02
+LinkName=Periscope
+StartDate=19380101
+EndDate=19451231
+
+;Observation periscope
+[Sensor 3]
+NodeName=O03
+LinkName=Periscope
+StartDate=19380101
+EndDate=19451231
+
+;Hydrophone
+[Sensor 4]
+NodeName=H01
+LinkName=Hydrophone
+StartDate=19380101
+EndDate=19451231
+
+;Hydrophone2
+[Sensor 5]
+NodeName=H02
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
+;Sonar
+[Sensor 6]
+NodeName=N01
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
+;Radar
+[Sensor 7]
+NodeName=R01
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
+;RadioDF
+[Sensor 8]
+NodeName=D01
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
+;Radar Warning
+[Sensor 9]
+NodeName=C01
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
+[Sensor 10]
+NodeName=R02
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
+[Sensor 11]
+NodeName=D02
+LinkName=NULL
+StartDate=19380101
+EndDate=19451231
+
