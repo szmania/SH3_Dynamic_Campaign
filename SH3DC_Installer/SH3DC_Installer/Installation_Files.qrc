@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Installation_Files/unzipper.bat</file>
+        <file>Installation_Files/SH3 Dynamic Campaign - Full.zip</file>
+    </qresource>
+</RCC>

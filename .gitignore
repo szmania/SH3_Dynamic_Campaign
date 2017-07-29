@@ -34,11 +34,11 @@ Makefile*
 target_wrapper.*
 
 # Szmania
-./Final
-./OLD VERSIONS
-./SH3DC - COMBINED Mod v1.3 - EXE
-./SH3DC EXTRAS
-./Tools
+Final/
+OLD VERSIONS/
+SH3DC - COMBINED Mod v1.3 - EXE/
+SH3DC EXTRAS/
+Tools/
 
 
 # QtCreator

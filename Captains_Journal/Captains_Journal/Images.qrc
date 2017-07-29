@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/vintage_notebook.jpg</file>
+        <file>Images/free-paper-texture-10.jpg</file>
+        <file>Text Files/text.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Batch_Files/SH3 Dynamic Campaign.bat</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+1. Show all stats shown in Patrols.cfg
+2. Allow to attach images to journal

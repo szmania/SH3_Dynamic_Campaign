@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CrashDialog</class>
+ <widget class="QDialog" name="CrashDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>387</width>
+    <height>270</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Crash Recovery</string>
+  </property>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>346</width>
+     <height>233</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Crash Recovery&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; color:#000000;&quot;&gt;Press &amp;quot;Next&amp;quot; to recover Silent Hunter III from an &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-style:italic; color:#000000;&quot;&gt;SH3 Dynamic Campaign&lt;/span&gt;&lt;span style=&quot; font-size:10pt; color:#000000;&quot;&gt; crash or from &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-style:italic; color:#000000;&quot;&gt;SH3 Dynamic Campaign&lt;/span&gt;&lt;span style=&quot; font-size:10pt; color:#000000;&quot;&gt; ending prematuerly. &lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;Note: This will restore the stock &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;Silent Hunter III&lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#000000;&quot;&gt; files into the &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#000000;&quot;&gt;Silent Hunter&lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#000000;&quot;&gt; directory. These files include &amp;quot;Campaign_SCR.mis&amp;quot; and &amp;quot;Campaign_RND.mis&amp;quot; campaign files and &amp;quot;EnglishNames.cfg&amp;quot;, &amp;quot;GermanNames.cfg&amp;quot; and &amp;quot;FrenchNames.cfg&amp;quot; roster files.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_Proceed">
+        <property name="text">
+         <string>Proceed</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_Cancel">
+        <property name="text">
+         <string>Cancel</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
