@@ -11,7 +11,7 @@ LGN1, foxidrive, abc0502, mfm4aa and JScones
 
 ![alt text](http://hostedgames.yolasite.com/resources/1b.jpg.opt860x656o0%2C0s860x656.jpg "SH3DC")
 
-SH3 Dynamic Campaign gives *Silent Hunter III* a truly dynamic campaign. This essentially means that when ships are sunk they will no longer appear within the campaign during that patrol or subsequent patrols. Whether that ship is renowned capital ship or just a generic tranker the sunken ship will no longer appear within *Silent Hunter III* within that specific career, even on subsequent patrols. SH3 Dynamic Campaign is career specific, so each career has its own unique ship sinking/removals from the campaign layer. Don't worry, the stock/original campaign files are restored after SH3 Dynamic Campaign is closed. SH3 Dynamic Campaign also has an uninstall function.
+**_SH3 Dynamic Campaign_** gives *Silent Hunter III* a truly dynamic campaign. This essentially means that when ships are sunk they will no longer appear within the campaign during that patrol or subsequent patrols. Whether that ship is renowned capital ship or just a generic tranker the sunken ship will no longer appear within *Silent Hunter III* within that specific career, even on subsequent patrols. *SH3 Dynamic Campaign* is career specific, so each career has its own unique ship sinking/removals from the campaign layer. Don't worry, the stock/original campaign files are restored after *SH3 Dynamic Campaign* is exited. *SH3 Dynamic Campaign* also has an uninstall function.
 
 
 
