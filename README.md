@@ -1,12 +1,10 @@
-# SH3_Dynamic_Campaign
-A dynamic campaign for world famous uboat simulator Silent Hunter III.
+# SH3_Dynamic_Campaign © 2017
+(aka"SH3DC")
+Version 1.3
+
+A dynamic campaign for world famous uboat simulator *Silent Hunter III*.
 
 More Info: http://hostedgames.yolasite.com/sh3-dynamic-campaign.php
-
-SH3 Dynamic Campaign Copyright © 2017
-
-aka"SH3DC"
-Version 1.3
 
 By Curtis Szmania and contributors:
 LGN1, foxidrive, abc0502, mfm4aa and JScones
@@ -37,6 +35,7 @@ SH3 Dynamic Campaign gives Silent Hunter III a truly dynamic campaign. This esse
 *    Backup file feature
 *    Crash recovery feature
 *    Uninstall feature
+*    Custom built Installer.
 
 
 ### ScreenShots
