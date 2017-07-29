@@ -9,7 +9,6 @@ aka"SH3DC"
 Version 1.3
 
 By Curtis Szmania and contributors:
-
 LGN1, foxidrive, abc0502, mfm4aa and JScones
 
 ![alt text](http://hostedgames.yolasite.com/resources/1b.jpg.opt860x656o0%2C0s860x656.jpg "SH3DC")
@@ -38,3 +37,12 @@ SH3 Dynamic Campaign gives Silent Hunter III a truly dynamic campaign. This esse
 *    Backup file feature
 *    Crash recovery feature
 *    Uninstall feature
+
+
+### ScreenShots
+![alt text](http://hostedgames.yolasite.com/resources/SH3DC.jpg.opt860x483o0%2C0s860x483.jpg "Gui")
+
+![alt text](http://hostedgames.yolasite.com/resources/SH3DC7.jpg "Dialog box")
+
+![alt text](http://hostedgames.yolasite.com/resources/SH3DC8.jpg "Sunken ship editor")
+
