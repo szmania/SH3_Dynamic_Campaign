@@ -37,6 +37,17 @@ LGN1, foxidrive, abc0502, mfm4aa and JScones
 *    Uninstall feature
 
 
+### Installation Instructions:
+1. Download
+2. Unzip
+3. Read the Instructions.doc file within the download.
+4. Enable the "JSGME - SH3 Dynamic Campaign Mod v..." folder (the folder next to the "Instructions.doc" file) with JSGME.  Or copy it and overwrite files in your Silent Hunter III installation folder; your choice.
+5. Inside the same folder as Instructions.doc there is SH3DC_Installer.exe. Run it. This will run you through the SH3 Dynamic Campaign installation. Follow its instructions to install SH3 Dynamic Campaign. If you have SH3 Commander installed, it will ask you about that too.
+6. Once installed, if you selected to have a shortcut created, you can use the shortcut in the Start Menu.
+7. Start "SH3DC.exe", or its shortcut, to play SH3 Dynamic Campaign.
+8. Enjoy!
+
+
 ### Screenshots
 ![alt text](http://hostedgames.yolasite.com/resources/SH3DC.jpg.opt860x483o0%2C0s860x483.jpg "Gui")
 
