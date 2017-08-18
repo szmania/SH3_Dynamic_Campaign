@@ -7,7 +7,7 @@ A dynamic campaign for world famous uboat simulator *Silent Hunter III*.
 More Info: http://hostedgames.yolasite.com/sh3-dynamic-campaign.php
 
 By Curtis Szmania and contributors:
-LGN1, foxidrive, abc0502, mfm4aa and JScones
+LGN1, foxidrive, Sailor Steve, abc0502, mfm4aa and JScones
 
 ![alt text](http://hostedgames.yolasite.com/resources/1b.jpg.opt860x656o0%2C0s860x656.jpg "SH3DC")
 
