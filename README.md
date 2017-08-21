@@ -1,4 +1,4 @@
-# SH3_Dynamic_Campaign © 2017
+# SH3_Dynamic_Campaign ©
 (aka"SH3DC")
 Version 1.3
 
